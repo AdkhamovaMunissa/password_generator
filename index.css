@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    padding: 40px;
+}
+
+#title1 {
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 42.6177px;
+    line-height: 43px;
+    letter-spacing: -0.025em;
+}
+
+#title2 {
+    color: #4ADF86;
+    margin: 0px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 42.6177px;
+    line-height: 43px;
+    letter-spacing: -0.025em;
+}
+
+#text {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+} 
+
+#generate{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    
+    align-items: center;
+    padding: 9.58899px 18.1125px 9.58899px 15.9816px;
+  
+
+    background: #10B981;
+    box-shadow: 0px 1.06544px 2.13089px rgba(0, 0, 0, 0.05);
+    border-radius: 6.39266px;
+    border: 0;
+    color: white;
+}
+
+#line {
+    border: 1.06544px solid #2F3E53;
+    margin-top: 30px;
+}
+
+#p1, #p2 {
+    width: 224.81px;
+    height: 41.55px;
+    background: #273549;
+    border-radius: 6.39266px;
+    border: 0;
+    margin: 10px;
+    color: white;
+    align-items: center;
+}
+
+#passwords {
+    display: flex;
+    justify-content: flex-start;
+}
